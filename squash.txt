@@ -1,0 +1,2 @@
+squash line 1
+squash line 2
